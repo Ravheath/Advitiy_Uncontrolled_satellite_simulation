@@ -1,2 +1,2 @@
-# Advitiy_Uncontrolled_satellite_simulation
-Assuming that just before entering the eclipse of an orbit, satellite's body frame is perfectly aligned with orbit frame and the instantaneous angular velocity of the body frame with respect to the orbit frame is zero.   Simulate the motion of the satellite in the presence of disturbance torques viz. Gravity gradient torque and Aerodynamic torque and in the absence of any control torque. 
+# Advitiy_uncontrolled_satellite_simulation
+This is a Simulation of uncontrolled Satellite in presence of disturbance torques in eclipse phase  
